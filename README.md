@@ -1,8 +1,8 @@
 # measure-region-latency
 This package provides way to measure rough latency on each region of cloud services from your env.
 
-### Supporting service
-- AWS
+## Supporting service
+### AWS
  - It uses root of regional dynamodb API endpoint. It provides health status.
  - It is not exact latency, but it's good way to know roughly how long it takes to the region from your env.
 
